@@ -238,7 +238,7 @@ letter-spacing: 2px;
 .limited p {
   justify-content: space-between;
   display: flex;
-  margin: 25px 15px;
+  margin: 20px 35px;
 }
 
 .limited img {
